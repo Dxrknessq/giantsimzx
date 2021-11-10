@@ -5,7 +5,7 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeuSc
     Style = 1,
     SizeX = 400,
     SizeY = 400,
-    Theme = "Aqua",
+    Theme = "Mocha",
     ColorOverrides = {
         MainFrame = Color3.fromRGB(30, 30, 30)
     }
